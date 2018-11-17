@@ -1,2 +1,2 @@
 # MiniProjects-python
-Some short projects in python
+Some short projects in python!
